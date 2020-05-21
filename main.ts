@@ -920,7 +920,7 @@ namespace 小艾_小车类 {
     }
 
 
-    //% blockId=cbit_ultrasonic_car block="超声波返回(cm)"
+    //% blockId=cbit_ultrasonic_car block="超声1波返回(cm)"
     //% color="#006400"
     //% weight=98
     //% blockGap=10
